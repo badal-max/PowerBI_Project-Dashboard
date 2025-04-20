@@ -1,3 +1,6 @@
 # PowerBI_Project-Dashboard
-This is a PowerBI end to end Project to analyse the Store sales.
-In this project, I have performed data cleaning and processing and designed a dashboard using advance charts and maps, filters and slicers and performed data forecasting.
+This is an end-to-end Power BI project designed to analyze store sales.
+
+In this project, I incorporated data analysis techniques—specializing in time series analysis—to deliver valuable insights, accurate sales forecasting, and interactive dashboard creation, driving business success.
+
+I performed data cleaning and processing, designed a dashboard using advanced charts, maps, filters, and slicers, and conducted data forecasting.
